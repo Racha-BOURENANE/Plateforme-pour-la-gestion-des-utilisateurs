@@ -27,7 +27,7 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
     * Github.	
 *	Backend :
     * Php.
-    * Une base de données MySQL.
+    * Une base de données : MySQL.
 *	Frontend :
     * HTML.
     * CSS.
