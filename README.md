@@ -19,20 +19,45 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
 ## Les outils et les environnement de développement
 <table align="center">
   <tr>
+  	<th>
+		 * Gestion de projet :
+	</th>
+ 	<th>
+		* Editeur de code :
+	</th>
+	<th>
+		 * Gestion de code :
+	</th>
+  </tr>
+  <tr>
+  	<td>
+		* Trello.
+     		* Word.
+     		* Excel.
+	</td>
+ 	<td>
+		* Visual Studio Code.
+	</td>
+ 	<td>
+		* Github.
+	</td>
+	  
+  </tr>
+
+   
     * Gestion de projet :
-    <td>  
+   
      * Trello.
      * Word.
      * Excel.
-    </td>
-    <td>  
+    
+    
      * Editeur de code :
      * Visual Studio Code.
-    </td>
-    <td>  
+    
     * Gestion de Code :
     * Github.
-    </td>
+
     
 	
 *	Backend :
