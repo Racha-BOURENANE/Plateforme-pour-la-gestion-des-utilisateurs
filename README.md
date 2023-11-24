@@ -19,19 +19,19 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
 ## Les outils et les environnement de développement
 <table align="center">
   <tr>
+    * Gestion de projet :
     <td>  
-       *	Gestion de projet :
-          * Trello.
-          * Word.
-          * Excel.
+     * Trello.
+     * Word.
+     * Excel.
     </td>
     <td>  
-       *	Editeur de code :
-          * Visual Studio Code.
+     * Editeur de code :
+     * Visual Studio Code.
     </td>
-     <td>  
-       *	Gestion de Code :
-          * Github.
+    <td>  
+    * Gestion de Code :
+    * Github.
     </td>
     
 	
