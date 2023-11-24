@@ -52,19 +52,13 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
     		* Une base de données : MySQL.
 	</td>
 	<td>
- 		 * HTML.
-    		 * CSS.
-       		 * JavaScript.
-	  	 * Bootstrap.
-     		 * adobe photoshop.
+ 			* HTML.
+    		 	* CSS.
+       		 	* JavaScript.
+	  	 	* Bootstrap.
+     		 	* adobe photoshop.
 		
 	</td>
   </tr>
 </table>
    
- 
-    * Bootstrap.
-    * Adobe Photoshop.
-
-
-
