@@ -37,27 +37,26 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
   </tr>
   <tr>
   	<td>
-		* Trello.
-     		* Word.
+		* Trello. <br>
+     		* Word. <br>
      		* Excel.
 	</td>
  	<td>
 		* Visual Studio Code.
 	</td>
  	<td>
-		* Github.
+		* Github. 
 	</td>
  	<td>
-		* Php.
+		* Php. <br>
     		* Une base de données : MySQL.
 	</td>
 	<td>
- 			* HTML. <br>
-    		 	* CSS.  <br>
-       		 	* JavaScript.
-	  	 	* Bootstrap.
-     		 	* adobe photoshop.
-		
+ 		* HTML. <br>
+    		* CSS.  <br>
+       		* JavaScript. <br>
+	  	* Bootstrap. <br>
+     		* adobe photoshop.
 	</td>
   </tr>
 </table>
