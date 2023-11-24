@@ -17,14 +17,24 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
 *	Contacter l'administration.
 
 ## Les outils et les environnement de développement
-*	Gestion de projet :
-    * Trello.
-    * Word.
-    * Excel.
-*	Editeur de code :
-    * Visual Studio Code.
-*	Gestion de Code :
-    * Github.	
+<table align="center">
+  <tr>
+    <td>  
+       *	Gestion de projet :
+          * Trello.
+          * Word.
+          * Excel.
+    </td>
+    <td>  
+       *	Editeur de code :
+          * Visual Studio Code.
+    </td>
+     <td>  
+       *	Gestion de Code :
+          * Github.
+    </td>
+    
+	
 *	Backend :
     * Php.
     * Une base de données : MySQL.
