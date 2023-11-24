@@ -47,7 +47,7 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
   </tr>
   <tr>
   	<td>
-		- Trello <img src="captures/Webmap%20Design.png" alt="first page" width="100px" /><br>
+		- Trello <br>
 		- Word <br>
      		- Excel
 	</td>
