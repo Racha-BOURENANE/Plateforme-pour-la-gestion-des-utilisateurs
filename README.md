@@ -14,25 +14,26 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
 *	Afficher le détail d’un compte utilisateur.
 *	Ajouter un utilisateur.
 *	Connexion et déconnexion à un compte utilisateur.
+*	Contacter l'administration.
 
 ## Les outils et les environnement de développement
 *	Gestion de projet :
-  * Trello.
-  * Word.
-  * Excel.
+    * Trello.
+    * Word.
+    * Excel.
 *	Editeur de code :
-  * Visual Studio Code.
+    * Visual Studio Code.
 *	Gestion de Code :
-  * Github.	
+    * Github.	
 *	Backend :
-  * Php.
-  * Une base de données MySQL.
+    * Php.
+    * Une base de données MySQL.
 *	Frontend :
-  * HTML.
-  * CSS.
-  * JavaScript.
-  * Bootstrap.
-  * Adobe Photoshop.
+    * HTML.
+    * CSS.
+    * JavaScript.
+    * Bootstrap.
+    * Adobe Photoshop.
 
 
 
