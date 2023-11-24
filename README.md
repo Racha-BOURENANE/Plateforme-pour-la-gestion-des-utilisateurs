@@ -20,13 +20,19 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
 <table align="center">
   <tr>
   	<th>
-		 * Gestion de projet :
+		 Gestion de projet :
 	</th>
  	<th>
-		* Editeur de code :
+		Editeur de code :
 	</th>
 	<th>
-		 * Gestion de code :
+		 Gestion de code :
+	</th>
+	<th>
+		Backend :
+	</th> 
+	<th>
+		Frontend :
 	</th>
   </tr>
   <tr>
@@ -41,32 +47,22 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
  	<td>
 		* Github.
 	</td>
-	  
+ 	<td>
+		* Php.
+    		* Une base de données : MySQL.
+	</td>
+	<td>
+ 		 * HTML.
+    		 * CSS.
+       		 * JavaScript.
+	  	 * Bootstrap.
+     		 * adobe photoshop.
+		
+	</td>
   </tr>
-
+</table>
    
-    * Gestion de projet :
-   
-     * Trello.
-     * Word.
-     * Excel.
-    
-    
-     * Editeur de code :
-     * Visual Studio Code.
-    
-    * Gestion de Code :
-    * Github.
-
-    
-	
-*	Backend :
-    * Php.
-    * Une base de données : MySQL.
-*	Frontend :
-    * HTML.
-    * CSS.
-    * JavaScript.
+ 
     * Bootstrap.
     * Adobe Photoshop.
 
