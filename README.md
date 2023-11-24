@@ -71,3 +71,5 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
   </tr>
 </table>
    
+## Installation 
+Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes. 
