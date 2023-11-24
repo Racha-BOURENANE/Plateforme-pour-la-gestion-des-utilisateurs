@@ -6,13 +6,33 @@ Dans le cadre de la stratégie des entreprises dans le domaine de la transformat
 * Permettre à l’utilisateur (le client) de contacter l’administration facilement.
 * Permettre à l’administration d’avoir une vision claire sur tous les utilisateurs ainsi que leurs détails.
 
-## Les fonnionalitées de l'application 
-Un site web basé sur des API REST qui permettent les scénarios suivants : 
+## Les fonctionnalités de l'application 
+Un site web basé sur des API REST qui permet les scénarios suivants :
 *	Enregistrer un nouvel utilisateur.
 *	Modifier les informations de l’utilisateur.
 *	Rechercher des utilisateurs.
 *	Afficher le détail d’un compte utilisateur.
 *	Ajouter un utilisateur.
 *	Connexion et déconnexion à un compte utilisateur.
+
+## Les outils et les environnement de développement
+*	Gestion de projet :
+  * Trello.
+  * Word.
+  * Excel.
+*	Editeur de code :
+  * Visual Studio Code.
+*	Gestion de Code :
+  * Github.	
+*	Backend :
+  * Php.
+  * Une base de données MySQL.
+*	Frontend :
+  * HTML.
+  * CSS.
+  * JavaScript.
+  * Bootstrap.
+  * Adobe Photoshop.
+
 
 
