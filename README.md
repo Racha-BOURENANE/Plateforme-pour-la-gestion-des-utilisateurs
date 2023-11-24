@@ -37,9 +37,9 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
   </tr>
   <tr>
   	<td>
-		Trello <br>
-		Word <br>
-     		Excel
+		- Trello <br>
+		- Word <br>
+     		- Excel
 	</td>
  	<td>
 		- Visual Studio Code
