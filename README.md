@@ -52,7 +52,7 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
      		- Excel
 	</td>
  	<td>
-		- Visual Studio Code
+		- VsCode
 	</td>
  	<td>
 		- Github 
