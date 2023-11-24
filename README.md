@@ -66,7 +66,7 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
     		- CSS  <br>
        		- JavaScript <br>
 	  	- Bootstrap <br>
-     		- adobe photoshop
+     		- Adobe Ps
 	</td>
   </tr>
 </table>
