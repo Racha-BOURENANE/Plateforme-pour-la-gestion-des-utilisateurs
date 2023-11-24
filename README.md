@@ -1,4 +1,12 @@
 # Plateforme-pour-la-gestion-des-utilisateurs
+## Documentation
+- Le cahier de charge : [Le cahier de charge]()
+- Le manuel d'utilisation : [Le manuel d'utilisation]()
+- La documentation technique : [La documentation Technique]()
+- Le fichier Trello : [Trello]()
+- Le fichier de plannification du projet Excel : [La plannification du projet]()
+- Le projet .zip : [Le projet.zip]()
+
 ## Description 
 Dans le cadre de la stratégie des entreprises dans le domaine de la transformation numérique, CM Consulting a pour objectif de numériser le secteur et de rendre les informations des clients plus accessibles ainsi que leur gestion plus souple. Afin de réaliser cet objectif, ils m'ont demandé de créer une plateforme pour la gestion des différents utilisateurs (clients), afin de :
 * Avoir un lien direct, fort et valable quelles que soient les conditions de travail (confinement total, etc.).
