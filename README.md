@@ -93,7 +93,7 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
 ## Les outils à installer : 
 * Git
 * Disposer d'un compte en ligne DevOps.
-* postgresql
+* PostgreSQL
 * XAMPP
 * WordPress
 * VS code
@@ -128,13 +128,14 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
 		- VsCode
 	</td>
  	<td>
-		- Repos
+		- Git
+		- DevOps --> Repos
 	</td>
  	<td>
 		- wordPress
 	</td>
 	<td>
- 		- MySql
+		- XAMMP + PostgreSQL: MySql
 	</td>
   </tr>
 </table>
