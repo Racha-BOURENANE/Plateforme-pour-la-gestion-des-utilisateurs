@@ -73,3 +73,115 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
    
 ## Installation 
 Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes. 
+
+
+Plateforme-wordpress-pour-Cmc
+## Respoonsable : Mr KLAIB Abdelkader
+
+## Pourquoi choisir WordPress : 
+* Un système de gestion de contenu gratuit et open source.
+* Facile à utiliser et à apprendre.
+* Pour creér votre propre site WordPress, vous pouvez sélectionner l'un des modèles disponibles et le modifier ou conecevoir directement le vôtre.
+* Dispose de milliers de thèmes et d'extenstions gratuites.
+
+## Taches a réaliser : 
+* Tâche 1 : Réaliser un site WordPress simple en utilisant Elementor, avec une page "contacter-nous" en utilsant WPForms + WP Mail SMTP et qui soit multilingue.
+* Tâche 2 : Faire un clonage de ce site vers un autre site nommé WordPressTest.
+* Tâche 3 : le travail (y'a inclut le projet, le fichier ReadMe.md , la base de donnée, et ainsi tous autres documents utilies) doit etre mis dans notre espace de travail: Azure DevOps "Repos".
+* Tâche 4: Réaliser et modifer au fur et à mesure les tâches sous notre espace de travail: Azure DevOps "Board".
+
+## Les outils à installer : 
+* Git
+* postgresql
+* VS code
+
+## Les outils et les environnement de développement
+<table align="center">
+  <tr>
+  	<th>
+		Gestion de projet :
+	</th>
+ 	<th>
+		Editeur de code :
+	</th>
+	<th>
+		Gestion de code :
+	</th>
+	<th>
+		System de gestion de contenu :
+	</th> 
+    <th>
+		Une base de données :
+	</th> 
+  </tr>
+  <tr>
+  	<td>
+		- DevOps <br>
+		- Word <br>
+     	- Excel
+	</td>
+ 	<td>
+		- VsCode
+	</td>
+ 	<td>
+		- Repos
+	</td>
+ 	<td>
+		- wordPress
+	</td>
+	<td>
+ 		- MySql
+	</td>
+  </tr>
+</table>
+   
+## Installation 
+Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes: 
+il faut avoir sur votre machine xampp et postgresql.
+il faut avoir aussi vs code ( pour une mieux visibilités du code).
+il faut avoir aussi Git.
+1- la premiere étape consiste a copier le projet et le mettre dans u dossier a htdoces --> qui se trouve sous xampp --> qui se trouve dans le disque c:/
+2- la seconde étape consiste a copier la base de données en suivants les étapes suivants : 
+
+3- les étapes de la date 05/12/2023:
+3.1- télécharger l'extension WPForms :
+  Extension --> ajouter une extension --> "taper dans la recherche" WPForms --> installer --> activer 
+  <table align="center">
+  <tr>
+   <td> <img src="/images/a1.PNG" />  </td> <td> <img src="images/a2.PNG" /> </td>  
+  </tr>
+  </table>
+- créer un formulaire personaliser selon votre choix : 
+  WPforms --> ajouter --> sélectionner un formulaire :
+  <table align="center">
+  <tr>
+   <td> <img src="images/a3.PNG" />  </td> <td> <img src="images/a4.PNG" /> </td>  
+  </tr>
+  </table>
+- une fois faits il fautes le sauvegarder et pour vérifier qu"il est sauvegarder il faut aller : 
+  WPForms --> Tous les formulaires
+    <table align="center">
+   <tr>
+    <td> <img src="images/a5.PNG" />  </td>   
+   </tr>
+   </table>
+3.2- Ajouter WPForms avec elementor pour le personaliser comme tu veux : 
+ pages -- ajouter une page --> "taper sur" le buton plus --> "taper dans la recherche " WPForms 
+   <table align="center">
+    <tr>
+     <td> <img src="images/a6.PNG" />  </td> <td> <img src="images/a7.PNG" /> </td>  
+    </tr>
+   </table>
+
+- Remarques importantes : n'oublie pas de faire publier a la fin sinon tu vas avoir d'erreur lorsque tu fait un lien vers cette pages (=pour accéder d'une page à cette page)
+   <table align="center">
+    <tr>
+     <td> <img src="images/a8.PNG" />  </td> 
+    </tr>
+   </table>
+
+
+
+
+
+
