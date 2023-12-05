@@ -128,7 +128,7 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
 		- VsCode
 	</td>
  	<td>
-		- Git
+		- Git <br>
 		- DevOps --> Repos
 	</td>
  	<td>
