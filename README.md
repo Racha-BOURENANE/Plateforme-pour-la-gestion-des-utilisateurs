@@ -75,7 +75,7 @@ Un site web basé sur des API REST qui permet les scénarios suivants :
 Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes. 
 
 
-Plateforme-wordpress-pour-Cmc
+# Plateforme wordpress :
 ## Respoonsable : Mr KLAIB Abdelkader
 
 ## Pourquoi choisir WordPress : 
@@ -84,8 +84,8 @@ Plateforme-wordpress-pour-Cmc
 * Pour creér votre propre site WordPress, vous pouvez sélectionner l'un des modèles disponibles et le modifier ou conecevoir directement le vôtre.
 * Dispose de milliers de thèmes et d'extenstions gratuites.
 
-## Taches a réaliser : 
-* Tâche 1 : Réaliser un site WordPress simple en utilisant Elementor, avec une page "contacter-nous" en utilsant WPForms + WP Mail SMTP et qui soit multilingue.
+## Tâches à réaliser : 
+* Tâche 1 : Réaliser un site WordPress simple en utilisant Elementor, avec une page "contacter-nous" en utilisant WPForms + WP Mail SMTP et qui soit multilingue.
 * Tâche 2 : Faire un clonage de ce site vers un autre site nommé WordPressTest.
 * Tâche 3 : le travail (y'a inclut le projet, le fichier ReadMe.md , la base de donnée, et ainsi tous autres documents utilies) doit etre mis dans notre espace de travail: Azure DevOps "Repos".
 * Tâche 4: Réaliser et modifer au fur et à mesure les tâches sous notre espace de travail: Azure DevOps "Board".
@@ -93,7 +93,9 @@ Plateforme-wordpress-pour-Cmc
 ## Les outils à installer : 
 * Git
 * postgresql
+* XAMPP
 * VS code
+* WordPress
 
 ## Les outils et les environnement de développement
 <table align="center">
