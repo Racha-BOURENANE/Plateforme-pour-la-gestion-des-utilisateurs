@@ -88,16 +88,18 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
 * Tâche 1 : Réaliser un site WordPress simple en utilisant Elementor, avec une page "contacter-nous" en utilisant WPForms + WP Mail SMTP et qui soit multilingue.
 * Tâche 2 : Faire un clonage de ce site vers un autre site nommé WordPressTest.
 * Tâche 3 : le travail (y'a inclut le projet, le fichier ReadMe.md , la base de donnée, et ainsi tous autres documents utilies) doit etre mis dans notre espace de travail: Azure DevOps "Repos".
-* Tâche 4: Réaliser et modifer au fur et à mesure les tâches sous notre espace de travail: Azure DevOps "Board".
+* Tâche 4: Réaliser et modifer au fur et à mesure la planification des tâches sous notre espace de travail: Azure DevOps "Board".
 
 ## Les outils à installer : 
 * Git
+* Disposer d'un compte en ligne DevOps.
 * postgresql
 * XAMPP
-* VS code
 * WordPress
+* VS code
 
-## Les outils et les environnement de développement
+
+## Organisation des outils et les environnement de développement
 <table align="center">
   <tr>
   	<th>
