@@ -197,7 +197,7 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
     </tr>
   </table>
 
-- Remarques importantes : N'oublie pas de le publier a la fin, sinon tu risques d'avoir des erreurs lorsque tu fait un lien vers cette page (=pour accéder d'une page à cette page)
+- Remarque importante : N'oublie pas de le publier a la fin, sinon tu risques d'avoir des erreurs lorsque tu fait un lien vers cette page (=pour accéder d'une page à cette page)
   <table align="center">
     <tr>
      <td> <img src="images/img14.PNG" />  </td>   
