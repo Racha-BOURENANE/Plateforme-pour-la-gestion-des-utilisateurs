@@ -91,7 +91,8 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
 * Tâche 4: Réaliser et modifer au fur et à mesure la planification des tâches sous notre espace de travail: Azure DevOps "Board".
 
 ## Les outils à installer : 
-* Git
+* Postman (pour la gestion des APIs)
+* Git 
 * Disposer d'un compte en ligne DevOps.
 * PostgreSQL
 * XAMPP
@@ -140,50 +141,68 @@ Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes.
   </tr>
 </table>
    
-## Installation 
-Pour installer ce projet depuis GitHub, vous pouvez suivre ces étapes: 
-il faut avoir sur votre machine xampp et postgresql.
-il faut avoir aussi vs code ( pour une mieux visibilités du code).
-il faut avoir aussi Git.
-1- la premiere étape consiste a copier le projet et le mettre dans u dossier a htdoces --> qui se trouve sous xampp --> qui se trouve dans le disque c:/
-2- la seconde étape consiste a copier la base de données en suivants les étapes suivants : 
-
-3- les étapes de la date 05/12/2023:
-3.1- télécharger l'extension WPForms :
+## Guide pour la réalisation des tâches :
+### Tâche 1 :
+1- sélectionner un thème sous WordPress et le personnaliser comme vous voulez.
+2- pour la page contacter-nous :
+2.1- Télécharger d'abord l'extension WPForms :
   Extension --> ajouter une extension --> "taper dans la recherche" WPForms --> installer --> activer 
   <table align="center">
   <tr>
-   <td> <img src="/images/a1.PNG" />  </td> <td> <img src="images/a2.PNG" /> </td>  
+    <td> <img src="/images/img1.PNG" /></td> 
+    <td> <img src="images/img2.PNG" /> </td>  
   </tr>
   </table>
-- créer un formulaire personaliser selon votre choix : 
-  WPforms --> ajouter --> sélectionner un formulaire :
   <table align="center">
-  <tr>
-   <td> <img src="images/a3.PNG" />  </td> <td> <img src="images/a4.PNG" /> </td>  
-  </tr>
-  </table>
-- une fois faits il fautes le sauvegarder et pour vérifier qu"il est sauvegarder il faut aller : 
-  WPForms --> Tous les formulaires
-    <table align="center">
    <tr>
-    <td> <img src="images/a5.PNG" />  </td>   
+    <td> <img src="/images/img3.PNG" /></td> 
+    <td> <img src="images/img4.PNG" /> </td>  
    </tr>
-   </table>
-3.2- Ajouter WPForms avec elementor pour le personaliser comme tu veux : 
- pages -- ajouter une page --> "taper sur" le buton plus --> "taper dans la recherche " WPForms 
-   <table align="center">
+  </table>
+- Créer un formulaire personnalisé selon votre choix : 
+  WPforms --> ajouter --> sélectionner un formulaire "pour notre cas, j'ai choisi formulaire de contact simple" :
+  <table align="center">
+   <tr>
+     <td> <img src="images/img5.PNG" /> </td> 
+     <td> <img src="images/img6.PNG" /> </td>  
+   </tr>
+  </table>
+  <table align="center">
+   <tr>
+     <td> <img src="images/img7.PNG" /> </td>  
+   </tr>
+  </table>
+- une fois fait, il faut le sauvegarder. Pour vérifier la bonne sauvegarde de ce dernier, on peut aller vers : 
+  WPForms --> Tous les formulaires ( il faut trouvver le nom du formulaire existe dans la liste)
+  <table align="center">
     <tr>
-     <td> <img src="images/a6.PNG" />  </td> <td> <img src="images/a7.PNG" /> </td>  
+     <td> <img src="images/img8.PNG" />  </td>   
+     <td> <img src="images/img9.PNG" /> </td> 
     </tr>
    </table>
+2.2- Ajouter WPForms avec Elementor pour avoir un design plus frais : 
+ -pages --> ajouter une page --> taper sur l'icon avec le symbole plus --> taper dans la recherche WPForms 
+  <table align="center">
+    <tr>
+     <td> <img src="images/img10.PNG" />  </td>   
+     <td> <img src="images/img11.PNG" /> </td> 
+    </tr>
+  </table>
 
-- Remarques importantes : n'oublie pas de faire publier a la fin sinon tu vas avoir d'erreur lorsque tu fait un lien vers cette pages (=pour accéder d'une page à cette page)
-   <table align="center">
+  -Sélectionner sur WPForms --> sélectionner le formulaire déja travaillé (ensuite ajouter votre touche et personnalisiez-le comme souhaité avec Elementor ): 
+  <table align="center">
     <tr>
-     <td> <img src="images/a8.PNG" />  </td> 
+     <td> <img src="images/img12.PNG" />  </td>   
+     <td> <img src="images/img13.PNG" /> </td> 
     </tr>
-   </table>
+  </table>
+
+- Remarques importantes : N'oublie pas de le publier a la fin, sinon tu risques d'avoir des erreurs lorsque tu fait un lien vers cette page (=pour accéder d'une page à cette page)
+  <table align="center">
+    <tr>
+     <td> <img src="images/img14.PNG" />  </td>   
+    </tr>
+  </table>
 
 
 
